@@ -1,6 +1,10 @@
 # C3_UD13
-Modelo Relacional.
-
+<h2>Modelo Relacional. </h2>
+<ul>
+  <li>Isidre  2,4,6</li>
+  <li>Veronika 1,7</li>
+  <li>Adria 3,5,8</li>
+  </ul
 
 Act3
 
