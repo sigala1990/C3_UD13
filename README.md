@@ -5,7 +5,13 @@
   <li>Adria 3,5,8</li>
   </ul
 
+Act1
+  
+  ![image](https://user-images.githubusercontent.com/89861246/164788698-e465e6b0-ac5a-4f63-ae0f-94a8f873753f.png)
+
+
 Act2
+  
 ![Modelo_relacional02](https://user-images.githubusercontent.com/103040138/164759570-b73cc662-abe5-4832-bf78-023f07c9a50f.png)
   
   
@@ -30,3 +36,10 @@ Act5
 Act6
 
 ![Modelo_relacional06](https://user-images.githubusercontent.com/103040138/164759766-b0fd9d96-de54-4294-b6c1-1e274f26485c.png)
+
+
+Act7
+
+![image](https://user-images.githubusercontent.com/89861246/164788910-185d2aa5-1c7c-4770-bd6c-93611020a2b3.png)
+
+
