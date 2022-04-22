@@ -1,5 +1,4 @@
-# C3_UD13
-<h2>Modelo Relacional. </h2>
+# C3_UD13 Modelo Relacional
 <ul>
   <li>Isidre  2,4,6</li>
   <li>Veronika 1,7</li>
