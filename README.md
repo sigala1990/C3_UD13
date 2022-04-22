@@ -17,6 +17,7 @@ Act3
 </div>
 
 Act4
+
 ![Modelo_relacional04](https://user-images.githubusercontent.com/103040138/164759702-6f4c8b32-e7b7-4fbb-8250-c40266e0c9e4.png)
 
 
@@ -27,4 +28,5 @@ Act5
   </div>
 
 Act6
+
 ![Modelo_relacional06](https://user-images.githubusercontent.com/103040138/164759766-b0fd9d96-de54-4294-b6c1-1e274f26485c.png)
