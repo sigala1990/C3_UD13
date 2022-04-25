@@ -42,4 +42,8 @@ Act7
 
 ![image](https://user-images.githubusercontent.com/89861246/164788910-185d2aa5-1c7c-4770-bd6c-93611020a2b3.png)
 
+ACT8 
+
+![ModeloRelacional08](https://user-images.githubusercontent.com/9555509/165080099-fd741c69-19d7-4918-93fb-9fe8b599d432.png)
+
 
